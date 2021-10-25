@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @weili-git
-- 👀 I’m interested in ml, nlp.
+- 👀 I’m interested in TTS.
 - 🌱 I’m currently learning pytorch.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
