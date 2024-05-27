@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weili-git
-- 👀 I’m interested in Text-To-Speech.
-- 🌱 I’m currently learning pytorch.
+- 👀 I’m interested in Text-To-Speech, web application development.
+- 🌱 I’m currently learning golang, vue.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
